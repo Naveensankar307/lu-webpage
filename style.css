@@ -1,0 +1,8 @@
+body{
+    background-color:#f2c78f;
+}
+
+.container{
+    display:grid;
+    place-items: center;
+}
